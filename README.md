@@ -19,7 +19,7 @@
    </a>
 </div>
 
-<div>
+<div display="flex">
    <h3>Skills 🐱‍👤</h3>
    <br>
    <span>
