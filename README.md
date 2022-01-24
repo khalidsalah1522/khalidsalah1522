@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 </div>
-
+<img align="left" src="https://ouch-cdn2.icons8.com/st9642Ya4-XF8EBTFxzFHFfiBNtE2T96YY47KGty1X0/rs:fit:256:632/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzI3/LzU1MzNjMDBlLTJm/MTEtNGViMS1iNjMy/LTAzMjJmMWI2MTcy/Ny5wbmc.png"/>
 <div display="flex">
    <h3>Skills 🐱‍👤</h3>
    <br>
@@ -33,6 +33,4 @@
          <li><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></li>
       </ul>
    </span>
-   <span align="right">
-      <img src="https://ouch-cdn2.icons8.com/st9642Ya4-XF8EBTFxzFHFfiBNtE2T96YY47KGty1X0/rs:fit:256:632/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzI3/LzU1MzNjMDBlLTJm/MTEtNGViMS1iNjMy/LTAzMjJmMWI2MTcy/Ny5wbmc.png"/></span>
 </div>
