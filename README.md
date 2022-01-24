@@ -4,7 +4,7 @@
 <br>
 <br>
 <h1 align="center">Hi👋 ,I'm Khalid </h1> 
-<p align="center"> Frontend developer <img width="40px" height="30px" src="https://ouch-cdn2.icons8.com/nhL1vJfQXaofi3NbQdLbqk6DI1KVibXvchef-eDUpsQ/rs:fit:256:215/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjIv/ZWY4M2QxMTQtYzA2/Ni00NzgzLWE2MTUt/YzVkMDNjNTUzZDU5/LnN2Zw.png"/></p>
+<p align="center"> Frontend developer <img width="40px" height="30px" style="vertical-align: middle;" src="https://ouch-cdn2.icons8.com/nhL1vJfQXaofi3NbQdLbqk6DI1KVibXvchef-eDUpsQ/rs:fit:256:215/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjIv/ZWY4M2QxMTQtYzA2/Ni00NzgzLWE2MTUt/YzVkMDNjNTUzZDU5/LnN2Zw.png"/></p>
 <br>
 <br>
 <div align="center">
