@@ -1,5 +1,5 @@
-<h1>Hi👋 ,I'm Khalid </h1>
-<h2> Frontend developer 👨🏽‍💻</h2>
+<h1>Hi👋 ,I'm Khalid </h1> <h2> Frontend developer 👨🏽‍💻</h2>
+
 <br>
 <br>
 <div align="center">
