@@ -34,5 +34,5 @@
       </ul>
    </span>
    <span align="right">
-      <img width="100" height="4000" src="https://ouch-cdn2.icons8.com/st9642Ya4-XF8EBTFxzFHFfiBNtE2T96YY47KGty1X0/rs:fit:256:632/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzI3/LzU1MzNjMDBlLTJm/MTEtNGViMS1iNjMy/LTAzMjJmMWI2MTcy/Ny5wbmc.png"/></span>
+      <img src="https://ouch-cdn2.icons8.com/st9642Ya4-XF8EBTFxzFHFfiBNtE2T96YY47KGty1X0/rs:fit:256:632/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzI3/LzU1MzNjMDBlLTJm/MTEtNGViMS1iNjMy/LTAzMjJmMWI2MTcy/Ny5wbmc.png"/></span>
 </div>
