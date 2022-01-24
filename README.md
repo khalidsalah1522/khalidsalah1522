@@ -3,8 +3,7 @@
 </div>
 <br>
 <h1 align="center">Hi👋 ,I'm Khalid </h1> 
-<p align="center" style="font-size: 32px"> I'm Frontend developer 👨🏽‍💻</p>
-<br>
+<h3 align="center" style="font-size: 32px"> I'm Frontend developer 👨🏽‍💻</h3>
 <br>
 <div align="center">
    <a herf="https://khalidsalah.netlify.app/">
