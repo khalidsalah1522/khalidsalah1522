@@ -22,14 +22,17 @@
 <div>
    <h3>Skills 🐱‍👤</h3>
    <br>
-   <ul>
-      <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></li>
-      <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></li>
-       <li><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></li>
-      <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></li>
-      <li><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/></li>
-      <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
-      <li><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></li>
-   </ul>
-   <div><img src="https://ouch-cdn2.icons8.com/st9642Ya4-XF8EBTFxzFHFfiBNtE2T96YY47KGty1X0/rs:fit:256:632/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzI3/LzU1MzNjMDBlLTJm/MTEtNGViMS1iNjMy/LTAzMjJmMWI2MTcy/Ny5wbmc.png"/>👤</div>
+   <span>
+      <ul align="left">
+         <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></li>
+         <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></li>
+          <li><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></li>
+         <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></li>
+         <li><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/></li>
+         <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
+         <li><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></li>
+      </ul>
+   </span>
+   <span align="right">
+      <img width="100" height="4000" src="https://ouch-cdn2.icons8.com/st9642Ya4-XF8EBTFxzFHFfiBNtE2T96YY47KGty1X0/rs:fit:256:632/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzI3/LzU1MzNjMDBlLTJm/MTEtNGViMS1iNjMy/LTAzMjJmMWI2MTcy/Ny5wbmc.png"/></span>
 </div>
