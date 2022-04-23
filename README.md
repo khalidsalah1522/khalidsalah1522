@@ -20,7 +20,7 @@
 </div>
 <img align="right" height="350" src="https://ouch-cdn2.icons8.com/st9642Ya4-XF8EBTFxzFHFfiBNtE2T96YY47KGty1X0/rs:fit:256:632/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzI3/LzU1MzNjMDBlLTJm/MTEtNGViMS1iNjMy/LTAzMjJmMWI2MTcy/Ny5wbmc.png"/>
 <div align="center">
-      <ul align="left" style="list-style: none">
+      <ul align="center">
          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
          <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
