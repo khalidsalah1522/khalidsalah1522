@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
    <img width="200" height="200" src="https://ouch-cdn2.icons8.com/NjO2EaVFBX-VZ-1rhL0pU3UilbdEGS-tiD1k_Yy2Kw4/rs:fit:256:292/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNDk4/L2E2ZmNiYjAzLWE5/ZmQtNGRiYS04ZmEz/LTkzMjg2ZTVjYjA0/Zi5zdmc.png" />
 </div>
 <br>
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 </div>
-<!-- <img align="right" height="350" src="https://ouch-cdn2.icons8.com/st9642Ya4-XF8EBTFxzFHFfiBNtE2T96YY47KGty1X0/rs:fit:256:632/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzI3/LzU1MzNjMDBlLTJm/MTEtNGViMS1iNjMy/LTAzMjJmMWI2MTcy/Ny5wbmc.png"/>
+<img align="right" height="350" src="https://ouch-cdn2.icons8.com/st9642Ya4-XF8EBTFxzFHFfiBNtE2T96YY47KGty1X0/rs:fit:256:632/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzI3/LzU1MzNjMDBlLTJm/MTEtNGViMS1iNjMy/LTAzMjJmMWI2MTcy/Ny5wbmc.png"/>
 <div display="flex">
    <h3>Skills 🐱‍👤</h3>
    <br>
@@ -33,5 +33,13 @@
          <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
          <li><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></li>
       </ul>
-   </span> -->
-</div>
+   </span>
+</div> -->
+<head>
+   style{
+      h1 {color: red;}
+   }
+</head>
+<body>
+   <h1>Khalid</h1>
+</body>
