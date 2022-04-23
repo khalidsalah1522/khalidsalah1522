@@ -36,9 +36,7 @@
    </span>
 </div> -->
 <head>
-   style{
-      h1 {color: red;}
-   }
+   <style>h1 {color: red;}</style>
 </head>
 <body>
    <h1>Khalid</h1>
