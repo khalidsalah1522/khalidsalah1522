@@ -1,4 +1,5 @@
-<p>Website: <a herf="https://khalidsalah.studio/">www.khalidsalah.studio</a></p>
-<p>Email: <a herf="mailto:khalidvsalah@gmail.com">khalidvsalah@gmail.com</a></p>
-<p>Instagram: <a herf="https://www.instagram.com/khalidd_dev/">@khalidd_dev</a></p>
-<p>Twitter: <a herf="https://twitter.com/khalidd_dev">@khalidd_dev</a></p>
+[khalidsalah.studio](https://khalidsalah.studio)
+[khalidvsalah@gmail.com](mailto:khalidvsalah@gmail.com)  
+[Instagram](https://www.instagram.com/khalidd_dev/)  
+[Twitter](https://twitter.com/khalidd_dev/)  
+[Linkedin](https://www.linkedin.com/in/khalidsalah)  
