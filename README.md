@@ -1,2 +1,2 @@
-Freelance developer 
-website: [khalidsalah.studio](https://khalidsalah.studio) 
+Freelance developer.  
+work: [khalidsalah.studio](https://khalidsalah.studio) 
